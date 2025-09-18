@@ -19,4 +19,3 @@ Core Web3 concepts you should know before diving into development:
 - **RPC**
   - Common RPC methods on Ethereum & Solana
  
-  ## also lern ML in the upcoming days
